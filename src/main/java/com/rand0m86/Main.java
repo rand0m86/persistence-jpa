@@ -1,4 +1,4 @@
-package com.magas;
+package com.rand0m86;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
